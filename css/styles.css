@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background-color: #343a40;
+    color: white;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-img-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.modal-header {
+    background-color: #343a40;
+    color: white;
+}
+
+.modal-content {
+    border-radius: 10px;
+}
